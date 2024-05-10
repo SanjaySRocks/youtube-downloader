@@ -1,1 +1,0 @@
-docker run --rm -it -v /root/youtube-dl/:/app sanjaysinghg2u/youtubedl python 03_run.py
