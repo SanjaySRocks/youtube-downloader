@@ -12,7 +12,7 @@ pip install git+https://github.com/ytdl-org/youtube-dl.git
 
 <br>
 
-2. Install ffmpeg package (https://github.com/BtbN/FFmpeg-Builds/releases)
+2. Install [ffmpeg](https://github.com/BtbN/FFmpeg-Builds/releases) package
 
 - Win - https://github.com/BtbN/FFmpeg-Builds/releases/download/latest/ffmpeg-master-latest-win64-gpl.zip
 
